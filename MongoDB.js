@@ -2,22 +2,22 @@
     db.users.insertMany ([
       {
         "User_id": "1",
-        "Name": "Akash",
-        "Email": "akash@gmail.com",
+        "Name": "Prakash",
+        "Email": "prakash@gmail.com",
         "Phone": "7492732121",
         "role": "Student"
       },
       {
         "User_id": "2",
-        "Name": "Barun",
-        "Email": "barun@gmail.com",
+        "Name": "Varun",
+        "Email": "varun@gmail.com",
         "Phone": "8792732121022",
         "role": "Student"
       },
       {
         "User_id": "3",
-        "Name": "Mani",
-        "Email": "mani@gmail.com",
+        "Name": "VeerMani",
+        "Email": "veeramani@gmail.com",
         "Phone": "987632121",
         "role": "Student"
       }
@@ -227,22 +227,22 @@
     db.mentors.insertMany([
       {
         "mentor_id":"1",
-        "mentor_name":"Sathish",
+        "mentor_name":"Saravanan",
         "mentee_count":17
       },
       {
         "mentor_id":"2",
-        "mentor_name":"Abarna",
+        "mentor_name":"Abinaya",
         "mentee_count":13
       },
       {
         "mentor_id":"3",
-        "mentor_name":"Irfan",
+        "mentor_name":"Vignesh",
         "mentee_count":16
       },
       {
         "mentor_id":"4",
-        "mentor_name":"John",
+        "mentor_name":"Malar",
         "mentee_count":17
       }
     ])
